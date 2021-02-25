@@ -13,3 +13,18 @@ C:\Users\Jose\Downloads\1 DAW MARENOSTRUM\ENTORNOS DE DESARROLLO\practica\Window
 C:\Users\Jose\Downloads\1 DAW MARENOSTRUM\ENTORNOS DE DESARROLLO\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\Jose\Downloads\1 DAW MARENOSTRUM\ENTORNOS DE DESARROLLO\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Jose\Downloads\1 DAW MARENOSTRUM\ENTORNOS DE DESARROLLO\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jose\Source\Repos\jaab1dawy\practica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
