@@ -79,7 +79,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.button1);
             this.Controls.Add(this.aluNombre);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Gestión de Alumnos";
             ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
